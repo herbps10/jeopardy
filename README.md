@@ -1,2 +1,2 @@
-# jeopardy
-Jeopardy! prediction models
+# Jeopardy! analysis
+R code for building Jeopardy! prediction models.
